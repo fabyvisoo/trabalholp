@@ -1,0 +1,12 @@
+{
+  "name": "site-suplementos",
+  "version": "1.0.0",
+  "description": "Servidor HTTP básico em Node.js para um site de venda de suplementos.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["node", "http", "suplementos", "servidor", "html"],
+  "author": "Seu Nome Aqui",
+  "license": "ISC"
+}
